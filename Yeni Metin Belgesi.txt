@@ -1,0 +1,19 @@
+
+kitaplar
+
+1 - python kodlama kitapları
+2 - numpy document
+3 - pandas document
+
+kütüphaneler
+
+1 - numpy
+2 - pandas
+
+siteler
+
+1 - github - kodları gömebilirsin
+2 - kaggle - kod yazabilirsin
+
+
+
